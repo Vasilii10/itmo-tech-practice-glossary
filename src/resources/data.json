@@ -51,7 +51,7 @@
     {
       "id": 9,
       "label": "Точка входа",
-      "description": "Description for Serverless Framework",
+      "description": "Место в программном коде, с которого начинается выполнение функции. Для контейнеров используется инструкция Docker'а ENTRYPOINT или CMD",
       "group": 3
     },
     {
